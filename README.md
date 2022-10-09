@@ -1,4 +1,4 @@
-# Phyton-Projetcts
+# About me
 
 A focused and driven student pursuing a Data Analytics major, currently attending Southern New Hampshire University,
 with 2.5+ years of work experience, meanwhile studying programming languages on the side such as SQL and Phyton.
